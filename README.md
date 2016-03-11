@@ -43,6 +43,7 @@ Pull the source tree from github and build. Requires Maven 3.3.9 (latest).
 Run either the Python or Scala shell to confirm Spark is installed: 
 
 	bin/pyspark
+
     Welcome to
           ____              __
          / __/__  ___ _____/ /__
@@ -54,6 +55,7 @@ Run either the Python or Scala shell to confirm Spark is installed:
     >>>
 
     bin/spark-shell 
+
     Welcome to
           ____              __
          / __/__  ___ _____/ /__
